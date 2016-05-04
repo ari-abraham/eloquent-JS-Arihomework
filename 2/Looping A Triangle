@@ -1,0 +1,7 @@
+var number = 1;
+var pound = "#";
+while (number <=7){
+	console.log(pound);
+	pound = pound += "#"
+	number = number += 1;
+}
